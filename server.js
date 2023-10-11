@@ -1,5 +1,3 @@
-cons {PORT} = require('./config/config.js');
-
 const express = require("express");
 // const bodyParser = require("body-parser"); /* deprecated */
 const cors = require("cors");
